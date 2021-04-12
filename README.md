@@ -1,2 +1,2 @@
-# Leonardo-USB-Spoofer
-Spoof keyboard KEY event
+# Leonardo-USB-Hijacker
+Hijack keyboard KEY event
